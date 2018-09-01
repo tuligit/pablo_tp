@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Times New Roman';
+  background-color:  #339983ff;
+}
+
+h1{
+	text-align: center;
+	font-size: 285%;
+}
+
+section{
+  width: 90%;
+  height: 90%;
+  margin: 80px;
+  padding: 10px;
+  border-radius: 0%;
+  float: center;
+  overflow: auto;
+  box-shadow: 0 4px 8px 0 rgba(5, 3, 6, 1.2), 0 6px 20px 0 rgba(6, 4, 7, 2.19);
+ background-color: rgb(169, 216, 157);
+}
+
+article img{
+  border-radius: 100%;
+  margin-left: 100px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+  position: relative;
+	
+}
+.container{
+  width: 90%;
+  margin: auto;
+}
+
+
+
+
+
+
+
